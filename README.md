@@ -8,3 +8,5 @@ Para criar seu bot do discord e colocar seu token: https://discord.com/developer
 > Comando default:
 
 ?gpt faça sua pergunta aqui
+
+(discord.py==1.7.3)
